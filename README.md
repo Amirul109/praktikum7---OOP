@@ -8,7 +8,12 @@
 
 # Pertemuan 11 - Mengimplementasikan Relasi antar Class #
 
-- Class Assosiasi ( one to one )
+- Class Assosiasi ( one to one ) 
+- Asosiasi, dapat diartikan sebagai hubungan statis antar class. Umumnya Asosiasi menggambarkan class yang memiliki atribut seperti class lain, ataupun jenis class yang memerlukan informasi mengenai eksistensi class lain.
+
+- diagram classnya :
+ 
+![asosiasi class](https://user-images.githubusercontent.com/116171779/206352266-c069f539-c074-4d6e-9945-9ff4d8aec05c.png)
 
 hasil outputnya :
 
@@ -16,6 +21,12 @@ hasil outputnya :
 
 
 - Class Agregasi
+-  yakni Hubungan agregasi dalam class diagram menggambarkan salah satu kelas yang merupakan bagian kelas lainnya, tetapi berdiri masing-masing.
+
+- diagram classnya :
+
+ ![agregasi](https://user-images.githubusercontent.com/116171779/206352376-32e1c5b2-e902-4979-89d4-13cc29274711.png)
+
 
 hasil outputnya:
 
@@ -23,8 +34,11 @@ hasil outputnya:
 
 
 - Class Komposisi
+- diagram classnya :
 
 ![hui](https://user-images.githubusercontent.com/116171779/206339335-7c702955-b9fb-4257-bdef-18e69b986b0f.png)
+
+![komposisi](https://user-images.githubusercontent.com/116171779/206352514-f4d92273-c412-4d50-9f16-b55223158fbc.png)
 
 hasil outputnya:
 
