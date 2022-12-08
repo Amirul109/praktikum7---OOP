@@ -9,13 +9,13 @@
 # Pertemuan 11 - Mengimplementasikan Relasi antar Class #
 
 - Class Assosiasi ( one to one )
-
-![output asosiasi](https://user-images.githubusercontent.com/116171779/206333165-9d9b7652-ae30-4e81-a065-a2f7cb1bafb7.png)
+- 
+![output5](https://user-images.githubusercontent.com/116171779/206338818-d5064794-23c8-4aad-bf21-f5b70e60332b.png)
 
 
 - Class Agregasi
-- 
-![output5](https://user-images.githubusercontent.com/116171779/206338686-67150369-0a9d-432b-84f4-c6a8427d0243.png)
+
+![output agregasi](https://user-images.githubusercontent.com/116171779/206338899-35317043-8541-43cf-8cbd-8289a4cd4f74.png)
 
 
 - Class Komposisi
