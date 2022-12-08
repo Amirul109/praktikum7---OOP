@@ -20,6 +20,6 @@
 
 - Class Komposisi
 
+![hui](https://user-images.githubusercontent.com/116171779/206339335-7c702955-b9fb-4257-bdef-18e69b986b0f.png)
 
-- Class Dependensi
 
