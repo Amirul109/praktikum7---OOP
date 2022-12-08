@@ -14,8 +14,9 @@
 
 
 - Class Agregasi
+- 
+![output5](https://user-images.githubusercontent.com/116171779/206338686-67150369-0a9d-432b-84f4-c6a8427d0243.png)
 
-![output agregasi](https://user-images.githubusercontent.com/116171779/206332853-1ac95ff3-17e7-4aab-aad3-c8c3f3a79846.png)
 
 - Class Komposisi
 
