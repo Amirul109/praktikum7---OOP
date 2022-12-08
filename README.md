@@ -1,9 +1,9 @@
 # praktikum7---OOP
 
-# Nama  : Amirul Mu'minin #
-# Nim   : 312110109   #
-# Kelas : Ti.21.C2  #
-# Matkul: Pemrograman Berorientasi Objek #
+- Nama  : Amirul Mu'minin 
+- Nim   : 312110109   
+- Kelas : Ti.21.C2  
+- Matkul: Pemrograman Berorientasi Objek 
 
 
 # Pertemuan 11 - Mengimplementasikan Relasi antar Class #
